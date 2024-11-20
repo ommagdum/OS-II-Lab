@@ -2,13 +2,13 @@
 
 This repository contains implementations for Operating Systems II laboratory experiments, focusing on file operations, process management, and system programming concepts.
 
-## Important Note
+## 🛑 Important Note
 
 Experiments 1, 2, 9, and 10 are not included in this repository as they focus on:
-- Experiment 1: Linux Commands and Shell Scripting
-- Experiment 2: Terminal-based System Administration
-- Experiment 9: System Performance Analysis
-- Experiment 10: Network Configuration and Management
+- Experiment 1: Linux Command Implementation
+- Experiment 2: File Linking and Shell Operations
+- Experiment 9: Text Processing and Filtering
+- Experiment 10: Shell Scripting
 
 These experiments are practical, hands-on sessions performed directly in the terminal and do not require C programming implementations
 
