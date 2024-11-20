@@ -2,6 +2,16 @@
 
 This repository contains implementations for Operating Systems II laboratory experiments, focusing on file operations, process management, and system programming concepts.
 
+## Important Note
+
+Experiments 1, 2, 9, and 10 are not included in this repository as they focus on:
+- Experiment 1: Linux Commands and Shell Scripting
+- Experiment 2: Terminal-based System Administration
+- Experiment 9: System Performance Analysis
+- Experiment 10: Network Configuration and Management
+
+These experiments are practical, hands-on sessions performed directly in the terminal and do not require C programming implementations
+
 ## 🗂️ Repository Structure
 
 ```bash
@@ -32,6 +42,7 @@ This repository contains implementations for Operating Systems II laboratory exp
     ├── Exp8c.c    # Multi-reader single writer
     ├── Exp8d.c    # Signal handling with file operations
     └── Exp8e.c    # Custom sleep implementation
+```
 
 ## ✅📋 Prerequisites
 - GCC Compiler
