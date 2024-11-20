@@ -1,3 +1,4 @@
+// Write a C program which will create a named pipe and write a message to it from one process and read the message from another process.
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>

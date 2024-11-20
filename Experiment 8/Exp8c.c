@@ -1,3 +1,4 @@
+// Write a C program which will create a pipe and two reading processes. The writing process will write a message to the pipe and the reading processes will read the message from the pipe.
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
